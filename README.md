@@ -10,8 +10,5 @@ The data comes from more than four months of plane tracking data provided by the
 
 A detailed methodology, the code running it, and the results it produces can be found online [here](https://buzzfeednews.github.io/2016-04-federal-surveillance-planes/analysis.html), and in the R Markdown document `analysis.Rmd`.
 
-## Questions / Feedback
 
-Email the author Peter Aldhous at [peter.aldhous@buzzfeed.com](mailto:peter.aldhous@buzzfeed.com[](http://))
-
-
+## Tableau Hackathon 2025 Team Skyview Data Sources
